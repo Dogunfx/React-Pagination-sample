@@ -1,0 +1,19 @@
+.country-box {
+  box-shadow: 1px 0px 8px silver;
+  width: 250px;
+  margin: 10px;
+}
+
+.country-row {
+  display: flex;
+}
+
+.country-row > div {
+  flex: 1;
+}
+
+.pagination {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}

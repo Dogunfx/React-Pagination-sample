@@ -1,0 +1,10 @@
+header {
+  box-shadow: 1px 0px 8px black;
+  padding: 7px 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
